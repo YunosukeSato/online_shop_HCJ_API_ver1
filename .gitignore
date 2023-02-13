@@ -34,5 +34,5 @@ build/
 
 .DS_Store
 
-com.example.e_commerce.config.dbInformation
-application.properties
+/src/main/java/com.example.e_commerce.config.dbInformation
+/src/main/resources/application.properties
