@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/Users/samur/Studies/e_commerce_API_ver1/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+775653688.index
+2429684388.index
+3699345213.index
+4268089403.index
