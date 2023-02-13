@@ -33,3 +33,6 @@ build/
 .vscode/
 
 .DS_Store
+
+com.example.e_commerce.config.dbInformation
+application.properties
